@@ -152,4 +152,4 @@ Analysed **1,465 products** to examine the relationship between product characte
 
 **LinkedIn:** https://www.linkedin.com/in/omodolapoladokun
 
-**GitHub:** https://github.com/royalpriestcode
+**GitHub:** https://github.com/omodolapoladokun
