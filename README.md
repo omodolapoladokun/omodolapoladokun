@@ -6,7 +6,7 @@ I am a Data Professional currently specialising in Analytics.
 
 I work on business problems by first understanding what is happening, why it matters to the business, and what questions the data can help answer. My projects focus mainly on sales, customer behaviour, operations and financial analysis.
 
-I use **SQL, Microsoft Excel and Power BI** for most of my analysis, and I am currently developing my Python skills for data analysis.
+I use **SQL, Microsoft Excel and Power BI** for most of my analysis, and **I also use Python for data analysis, automation and data pipelines while continuing to deepen my Python skills**.
 
 I am particularly interested in opportunities where I can work with experienced analysts, contribute to real business problems and continue developing through practical work and mentorship.
 
