@@ -36,8 +36,6 @@ I am particularly interested in opportunities where I can work with experienced 
 
 ## Selected Projects
 
-## Selected Projects
-
 ### Digital Development in Africa
 
 **Power BI | DAX | Development Analytics | Digital Infrastructure**
@@ -119,7 +117,7 @@ Built a Python ETL pipeline that retrieves live weather data from the OpenWeathe
 - Built a repeatable **Extract → Transform → Load** workflow.
 - Produced analysis-ready CSV output from raw API responses.
 
-[View Project](https://github.com/royalpriestcode/Weather-ETL-Pipeline)
+[View Project](https://github.com/royalpriestcode/Weather-ETL-Pipeline-Analysis)
 
 ---
 
