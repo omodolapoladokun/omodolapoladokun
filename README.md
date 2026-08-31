@@ -1,6 +1,6 @@
 # Omodolapo Oladokun
 
-### Data Analyst | Business Analytics | SQL | Power BI | Excel
+### Data Analyst | Business Analytics | SQL | Power BI | Excel | Python
 
 I am a Data Professional currently specialising in Analytics.
 
