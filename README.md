@@ -49,7 +49,7 @@ Analysed World Bank development data across **11 African countries from 2010–2
 - Fixed broadband remained much lower than mobile connectivity across the selected countries.
 - Countries with stronger electricity access generally appeared better positioned for stronger internet adoption.
 
-[View Project](https://github.com/royalpriestcode/Digital-Development-in-Africa)
+[View Project](https://github.com/omodolapoladokun/Digital-Development-in-Africa)
 
 ---
 
@@ -66,7 +66,7 @@ Analysed **7,043 telecom customers** to identify the factors associated with cus
 - Customers with higher monthly charges and those using Electronic Check showed stronger churn patterns.
 - Newer customers and customers without Technical Support were among the most vulnerable groups.
 
-[View Project](https://github.com/royalpriestcode/Telecom-Customer-Churn-Analysis)
+[View Project](https://github.com/omodolapoladokun/Telecom-Customer-Churn-Analysis)
 
 ---
 
@@ -83,7 +83,7 @@ Analysed historical Apple stock data to examine price behaviour, returns, volati
 - 7-day and 30-day moving averages helped separate short-term price movement from broader trends.
 - Rolling volatility showed that the level of risk changed over time.
 
-[View Project](https://github.com/royalpriestcode/Apple-Stock-Time-Series-Analysis)
+[View Project](https://github.com/omodolapoladokun/Apple-Stock-Time-Series-Analysis)
 
 ---
 
@@ -100,7 +100,7 @@ Analysed retail sales and operational data to investigate sales performance, cus
 - Chairs generated approximately **$36,471 in profit**.
 - Corporate customers averaged approximately **35 days in delivery time**.
 
-[View Project](https://github.com/royalpriestcode/North-America-Retail-Sales-Analysis)
+[View Project](https://github.com/omodolapoladokun/North-America-Retail-Sales-Analysis)
 
 ---
 
@@ -117,7 +117,7 @@ Built a Python ETL pipeline that retrieves live weather data from the OpenWeathe
 - Built a repeatable **Extract → Transform → Load** workflow.
 - Produced analysis-ready CSV output from raw API responses.
 
-[View Project](https://github.com/royalpriestcode/Weather-ETL-Pipeline-Analysis)
+[View Project](https://github.com/omodolapoladokun/Weather-ETL-Pipeline-Analysis)
 
 ---
 
@@ -134,7 +134,7 @@ Analysed **1,465 products** to examine the relationship between product characte
 - Heavy discounts did not consistently translate into stronger commercial performance.
 - Product categories varied substantially in pricing, review activity and estimated revenue potential.
 
-[View Project](https://github.com/royalpriestcode/Amazon-Marketplace-Analysis)
+[View Project](https://github.com/omodolapoladokun/Amazon-Marketplace-Analysis)
 
 ---
 
